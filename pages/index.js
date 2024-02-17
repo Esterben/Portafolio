@@ -66,17 +66,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
 
-          Soy un estudiante apasionado de la
-          ingeniería electrónica, a lo largo de
-          mi carrera me motive por aprender
-          programación. Me destaco en el
-          trabajo grupal por mis habilidades
-          de comunicación y aplicación de
-          conocimientos. Busco una
-          oportunidad laboral para aprender
-          mas sobre la programación y
-          aplicarlo en proyectos de alto valor a
-          la sociedad
+          Soy un estudiante apasionado de la  ingeniería electrónica, a lo largo de mi carrera me motive por aprender programación. Me destaco en el trabajo grupal por mis habilidades de comunicación y aplicación de conocimientos. Busco un ambiente donde poder poner en practica mis habilidades de desarrollo para contribuir con proyectos de alto valor para la sociedad.
 
         </Paragraph>
         <Box align="center" my={4}>
